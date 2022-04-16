@@ -1,15 +1,17 @@
 # 3rd Place Solution in 2022 Enerjisa Datathon
 
+## Problem Definition
+
+Using the historical generation and weather data (hourly) between the dates 01.01.2019 – 30.11.2021, forecast the generation (hourly) the period 01.12.2021 – 31.12.2021.
+
+## Solution
 I used CatBoost for final submission but realized that I should have spent time on other algorithms like tabnet or NN. I will also add other algorithm solutions to the repo.
 
 Here is my solution:
 
 1. I have read a lot of papers (articles, thesis etc.) because the most importance features (from my perspective) come from domain-specific informations.
-
 2. I mostly focus on external data like sun position, irradiance etc. You can use this library: https://pvlib-python.readthedocs.io/en/stable/index.html
-
 3. Another extraordinary thing was Campbell-Norman (1988) method. I calculated irradiance using Effective Cloud Cover and GHI-DHI-DNI, you can see the method here: https://pvlib-python.readthedocs.io/en/stable/forecasts.html?highlight=campbell#cloud-cover-and-radiation
-
 4. My feature selection method (LOFO) is coming from: https://github.com/aerdem4/lofo-importance
 
 Some of my references (the tip of the iceberg): 
