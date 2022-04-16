@@ -1,5 +1,7 @@
 # 3rd Place Solution in 2022 Enerjisa Datathon
 
+I used CatBoost for final submission but realized that I should have spent time on other algorithms like tabnet or NN. I will also add other algorithm solutions to the repo.
+
 Here is my solution:
 
 1. I have read a lot of papers (articles, thesis etc.) because the most importance features (from my perspective) come from domain-specific informations.
@@ -21,3 +23,4 @@ Wang Y, Feng B, Hua Q-S, Sun L. Short-Term Solar Power Forecasting: A Combined L
 Ertekin, S. (2020). Solar Power Prediction with an Hour-based Ensemble Machine Learning Method . Hittite Journal of Science and Engineering , 7 (1) , 35-40 . DOI: 10.17350/HJSE19030000169
 
 Daniel O, Kubby J. Feature Selection and ANN Solar Power Prediction. Research Article. Journal of Renewable Energy, 2017. https://doi.org/10.1155/2017/2437387
+
