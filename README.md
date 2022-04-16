@@ -2,7 +2,7 @@
 
 ## Problem Definition
 
-Using the historical generation and weather data (hourly) between the dates 01.01.2019 – 30.11.2021, forecast the generation (hourly) the period 01.12.2021 – 31.12.2021.
+Using the historical generation and weather data (hourly) between the dates 01.01.2019 – 30.11.2021, forecast the generation (hourly) for the period 01.12.2021 – 31.12.2021.
 
 ## Solution
 I used CatBoost for final submission but realized that I should have spent time on other algorithms like tabnet or NN. I will also add other algorithm solutions to the repo.
