@@ -1,2 +1,2 @@
-# enerjisa-datathon-3rd-place-solution
+# 3rd Place Solution in 2022 Enerjisa Datathon
 Long-term solar power generation forecasting competition notebook
